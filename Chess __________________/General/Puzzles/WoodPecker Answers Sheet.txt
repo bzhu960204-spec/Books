@@ -1,0 +1,165 @@
+1. 
+1.Rxh2 Kxh2
+2.Rh8#
+
+2.
+1.Rf8+ Bxf8
+2.d6+
+
+3.
+1.Bxf4 exf4
+2.e5
+
+4.
+1.Rd2+ Rxd2
+2.Qxb1
+
+1.Rd2+ Ke1
+2.Rxd1+ Qxd1
+3.Rxd1+
+
+5.
+1.Bxf7+ Kxf7
+2.Nxe5+ K?
+3.Nxg4 Nxg4
+4.Qxg4
+
+6.
+1.Rxc6 Bxc6
+2.Ba5 Bxb5
+3.Bxb6+ ?
+4.Qxb5
+
+7.?
+1.Bxa6 Bxa6
+2.Qxa6
+
+8.
+1.Qxc4 Qxc4
+2.Ne3+ Nxc4
+
+9.
+1.Rxd7 Kxd7
+2.Kxb5
+
+10.
+1.Qxf6 gxf6
+2.Bf8#
+
+1.Qxf6 Qg6
+2.Qxg6 
+
+11.
+1.Bxf7+ Kxf7
+2.Nxe5+ ?
+3.Nxg4
+
+12.
+1.Qh6+ Kg8
+2.Rf8+ Qxf8
+3.Qxh7#
+
+13.
+1. Nc3 threatening Nxe2;
+(Queen doesn't have a good square to go while protecting the Bishop)
+
+1. ... Q? 
+2. Bxd2
+
+1. ... Bxc3
+2. Bxc1
+
+14.
+
+1. Rxd3
+Cause Queen cannot Qxd3 otherwise Qe1+ followed by Qxd1#
+
+15.
+1. Qxf1+;
+1. ...Kxf1 then 2.Re1#
+
+1. ...Kh2 2. Bf4+ g3
+3. Qxf2 Qg2 4. Qxg2+ Qxg2 
+5. Re2+ ... 6. Rxb2
+
+16.
+1. Nxg5 threatening 2.Qh5+;
+1. ... fxg5 2. Qh5+ Ke7
+3. Qf7+ Kd6 4. e5+ Nxe5 
+5. dxe5+;
+5. ... Kxe5 6. Qd5#
+5. ... Kc6 6. Qd5+ 7. Qb5#
+5. ... Kc5 6. Qd5+ 7. Qb5#
+
+1. ... h5
+2. Nf7 fork
+
+17.
+1. Na7+;
+1. ...Nxa7 2. Bxa6
+1. ...Kb7 2. Bxa6+ Kxa6 
+3. Nxc6
+
+18.
+1. Bxf7+ Kxf7 
+2. Nxe5+ ?
+3. Nxg4 
+
+Any other move, then move the bishop to safety and keep the winning pawn
+
+19.
+1. Rxe3;
+Queen cannot take Rook due to Qc2#, any Queen move will cause Rxe2 on the next move while still threatening Qc2#
+So Qf8+ and Qxg7 will not happen.
+
+20.
+1. Nxg5 threatening Qh5+. 
+The answer is the same as the question 16
+
+21.
+1. Nxg5 threatening Qh5+
+Black cannot play fxg5
+
+1. Nxg5 fxg5 
+2. Qh5+ Ke7
+3. Qxg5+ Ke8
+4. Qe5+ ?
+5. Qxh8
+
+22. 
+1. Nxe5 
+Black cannot play fxe5
+
+1. Nxe5 fxe5 
+2. Qh5+;
+2. ...Ke7 
+3. Qxe5#
+
+2. ...g7 
+3. Qxe5+ ?
+4. Qxg8
+
+23.
+1. Rxd5 cxd5
+2. Rxc8+
+
+1. Rxd5 Rxd5
+2. Qxd5 cxd5
+3. Rxc8#
+
+24.
+1. Na4 Rxa4
+2. bxa4 bxa4
+
+26.
+1. Rf6 Nxf6 2. Rxf6 Q? 3. Rxe6#
+
+27.
+1. Qxh4 Qxh4 2. Nf6+ ? 3. Nxh5
+
+29.
+1. Qg7+ Rxg7 2. hxg7+ Kg8 3. Rh8#
+
+30.
+1.Nf6+ ... 2.Rxf8
+
