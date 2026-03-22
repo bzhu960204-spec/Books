@@ -1,0 +1,60 @@
+Docker in Action 184
+
+docker load ¨Ci myfile.tar
+
+https://registry.aliyuncs.com/
+
+DOCKER_OPTS=" --registry-mirror=https://registry.aliyuncs.com/"
+
+registry.aliyuncs.com/hello-world
+
+docker build -t dia_ch3/dockerfile:latest ch3_dockerfile
+s
+
+
+
+
+Which of the following is true about Mule applications?
+
+Message routing is done in paths called streams that contain stages called phases
+
+They are designed to consume inbound data in a variety of message formats
+
+Deployment is possible to anywhere a Mule Runtime is hosted
+
+They are created by integration developers to capture output from various subsystems
+
+
+
+FROM dockerinaction/mailer-base:0.6
+RUN apt-get update && \
+apt-get install -y netcat
+COPY ["./log-impl", "${APPROOT}"]
+RUN chmod a+x ${APPROOT}/${APP} && \
+chown example:example /var/log
+USER example:example
+VOLUME ["/var/log"]
+CMD ["/var/log/mailer.log"]
+
+
+FROM debian:buster-20190910
+LABEL maintainer="dia@allingeek.com"
+RUN groupadd -r -g 2200 example && \
+ useradd -rM -g example -u 2200 example
+ENV APPROOT="/app" \
+ APP="mailer.sh" \
+ VERSION="0.6"
+LABEL base.name="Mailer Archetype" \
+ base.version="${VERSION}"
+WORKDIR $APPROOT
+ADD . $APPROOT
+ENTRYPOINT ["/app/mailer.sh"] 
+EXPOSE 33333
+
+
+drwxr-xr-x 1 root root 4096 Jun 18 03:12 .
+drwxr-xr-x 1 root root 4096 Jun 18 03:13 ..
+-rw-r--r-- 1 root root 0 Jun 18 03:12 base-evidence
+
+Instead, this particular image uses a su or sudo-like program called gosu to start the PostgreSQL process as the postgres user. Doing so
+makes sure that the process runs without administrative access in the container.

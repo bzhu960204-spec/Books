@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ancestor2>
+	<ancestor1>
+		<preceding1/>
+		<preceding2/>
+		<parent>
+			<preceding-sibling1>
+				<preceding-sibling1-child/>
+			</preceding-sibling1>
+			<preceding-sibling2/>
+			<self>
+				<child1/>
+				<child2>
+					<descendant1/>
+					<descendant2/>
+				</child2>
+				<child3>
+					<descendant3/>
+					<descendant4/>
+				</child3>
+				<child4/>
+			</self>
+			<following-sibling1/>
+			<following-sibling2>
+				<following-sibling2-child/>
+			</following-sibling2>
+		</parent>
+		<following1/>
+		<following2/>
+	</ancestor1>
+</ancestor2>

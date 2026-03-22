@@ -1,0 +1,22 @@
+machine1 192.168.2.53
+user: root
+pwd: ZBZS180zbsqwd
+
+Mysql
+user: root
+pwd: ZBZS180zbsqwd!
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'ZBZS180zbsqwd!';
+
+machine2 192.168.2.57
+user: root
+pwd: ZBZS180zbsqwd
+
+
+/var/log/nginx/access.log
+
+
+machine1 IP   site1.com
+machine1 IP   site2.com
+
+in host machine, host file,
+

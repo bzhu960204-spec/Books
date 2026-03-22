@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by  () -->
+<persons>
+	<list>list1<id>100</id>
+	</list>
+	<employees>
+		<person gender="male" age="45">
+			<id>1000</id>
+			<name>Peter</name>
+			<surname>Lustig</surname>
+			<street>Hofstr. 1</street>
+			<city>Berlin</city>
+			<zip>10115</zip>
+		</person>
+		<person gender="female" age="32">
+			<id>1001</id>
+			<name>Rosa</name>
+			<surname>Sack</surname>
+			<street>Hauptstr. 51</street>
+			<zip>12345</zip>
+			<city>Musterstadt</city>
+		</person>
+		<person gender="male" age="25">
+			<id>1002</id>
+			<name>Jupp</name>
+			<surname>Strunck</surname>
+			<street>Landstr. 14</street>
+			<city>Dödelberg</city>
+			<zip>58941</zip>
+		</person>
+		<person gender="male" age="34">
+			<id>1002</id>
+			<name>Theo</name>
+			<surname>Test</surname>
+			<street>Am Donnerberg 4</street>
+			<city>Berlin</city>
+			<zip>10112</zip>
+		</person>
+	</employees>
+	<customers>
+		<list>list2<id>200</id>
+		</list>
+		<person gender="male" age="26">
+			<id>2000</id>
+			<name>Hans</name>
+			<surname>Wurst</surname>
+			<street>Wurstweg. 1</street>
+			<city>Wursten</city>
+			<zip>12345</zip>
+		</person>
+		<person gender="male" age="42">
+			<id>2001</id>
+			<name>Jürgen</name>
+			<surname>Sack</surname>
+			<street>Schlossallee. 51</street>
+			<zip>12345</zip>
+			<city>Musterstadt</city>
+		</person>
+		<person gender="male" age="25">
+			<id>2002</id>
+			<name>Lassmiranda</name>
+			<surname>DenSevilla</surname>
+			<street>Landstr. 14</street>
+			<city>Höllshausen</city>
+			<zip>66666</zip>
+		</person>
+	</customers>
+</persons>

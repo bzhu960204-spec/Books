@@ -1,0 +1,5 @@
+MB 42
+
+Datamapper Helper document  
+Create Inhouse Application format
+Advices for entering record and field definitions

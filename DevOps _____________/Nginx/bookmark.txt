@@ -1,0 +1,6 @@
+Nginx Cookbook 57
+Nginx с╒нднд╣╣
+http://nginx.org/en/docs/http/ngx_http_core_module.html#location
+
+
+Nginx from beginner to Pro  173
