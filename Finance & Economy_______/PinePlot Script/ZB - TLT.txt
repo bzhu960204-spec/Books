@@ -1,0 +1,5 @@
+//@version=5
+indicator("ZB1! - TLT Spread", overlay=false)
+zb = request.security("CBOT:ZB1!", "D", close)
+tlt = request.security("NASDAQ:TLT", "D", close)
+plot(zb - tlt, title="ZB - TLT Spread", color=color.orange)
