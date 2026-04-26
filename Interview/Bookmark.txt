@@ -1,0 +1,9 @@
+Cracking the Coding Interview 23
+Cracking the Tech Career 5
+LeetCode Clean Code Handbook 13
+
+16-40  24*2+1 = 49
+
+27-40 13*2 + 1 = 27
+
+16-26 11*2 = 22

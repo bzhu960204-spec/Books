@@ -1,0 +1,54 @@
+How to prove it 20
+
+1.1 
+Exercises
+1.
+a. (Reading Assignment V Homework Problems) A ~(Homework Problems A Test)
+b. ~(Go Skiing) V [(Go Skiing) A ~(Snow)]
+c. ~[(7^1/2 < 2) V (7^1/2 = 2)]
+
+2.
+a. (John telling the truth A Bill telling the truth) V (~John telling the truth A ~Bill telling the truth)
+b. (fish V chicken) A ~(fish A mashed potatoes)
+c. (3 is a common divisor of 6) A (3 is a common divisor of 9) A (3 is a common divisor of 15)
+
+3.
+a.  ~(Alice is in the room A Bob is in the room)
+b. (Alice is not in the room) A (Bob is not in the room)
+c. (Alice is not in the room) V (Bob is not in the room)
+d. ~(Alice is in the room) A ~(Bob is in the room)
+
+4.
+a. Y
+b. N
+c. Y
+d. N
+
+5.
+a. I won't buy the pants and not buy the shirt.
+b. I won't buy the pants and I won't buy the shirt.
+c. I will either not buy the pants or not buy the shirt.
+
+6. 
+a. Either Steve is happy or George is happy and Either Steve is not happy or George is not happy
+b. The only two possibilities are Either Steve is happy or George is happy and Steve is unhappy
+and George is unhappy
+c. 
+
+7.
+a. valid
+b. invalid
+c. valid
+d. invalid
+
+
+
+Most
+however
+but while
+mistake
+Moreoever
+for example
+propose
+But
+fundamental

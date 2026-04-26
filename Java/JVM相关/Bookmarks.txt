@@ -1,0 +1,2 @@
+JVM specification 40
+Optimizing Java_practical techniques for improving JVM application performance 246
